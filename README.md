@@ -16,3 +16,6 @@
 
 جدول teachersorders نیز مانند studentsorders است فقط اینکه persion_id در این جدول به teacher_id در جدول teachers متصل است. بقیه موارد مشابه جدول studentsorders  است .
 
+![diagram](https://github.com/user-attachments/assets/b8a73bd0-8788-4f04-a44b-912bf9301447)
+
+
